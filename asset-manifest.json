@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vahid-Jabarouti/to-do-list/static/css/main.031e540d.chunk.css",
+    "main.js": "/Vahid-Jabarouti/to-do-list/static/js/main.18ac88eb.chunk.js",
+    "main.js.map": "/Vahid-Jabarouti/to-do-list/static/js/main.18ac88eb.chunk.js.map",
+    "runtime-main.js": "/Vahid-Jabarouti/to-do-list/static/js/runtime-main.ce363585.js",
+    "runtime-main.js.map": "/Vahid-Jabarouti/to-do-list/static/js/runtime-main.ce363585.js.map",
+    "static/js/2.995667ca.chunk.js": "/Vahid-Jabarouti/to-do-list/static/js/2.995667ca.chunk.js",
+    "static/js/2.995667ca.chunk.js.map": "/Vahid-Jabarouti/to-do-list/static/js/2.995667ca.chunk.js.map",
+    "index.html": "/Vahid-Jabarouti/to-do-list/index.html",
+    "precache-manifest.00c6a37c777e54b148d90d37b69df544.js": "/Vahid-Jabarouti/to-do-list/precache-manifest.00c6a37c777e54b148d90d37b69df544.js",
+    "service-worker.js": "/Vahid-Jabarouti/to-do-list/service-worker.js",
+    "static/css/main.031e540d.chunk.css.map": "/Vahid-Jabarouti/to-do-list/static/css/main.031e540d.chunk.css.map",
+    "static/js/2.995667ca.chunk.js.LICENSE.txt": "/Vahid-Jabarouti/to-do-list/static/js/2.995667ca.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Vahid-Jabarouti/to-do-list/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce363585.js",
+    "static/js/2.995667ca.chunk.js",
+    "static/css/main.031e540d.chunk.css",
+    "static/js/main.18ac88eb.chunk.js"
+  ]
+}
